@@ -1,0 +1,29 @@
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.AssemblyReference.cache
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial_Maker.frmMain.resources
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.GenerateResource.cache
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.exe
+D:\Documents\Downloads\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.pdb
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\Serial Maker.exe
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\Serial Maker.pdb
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\FilterControls.dll
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\SerialBoxes.pdb
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\FilterControls.pdb
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.AssemblyReference.cache
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial_Maker.frmMain.resources
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.GenerateResource.cache
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CopyComplete
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.exe
+D:\Documents\Downloads\Trial_Maker_src\TrialMaker\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.pdb
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\Serial Maker.exe
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\Serial Maker.pdb
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\FilterControls.dll
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\SerialBoxes.pdb
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\bin\Debug\FilterControls.pdb
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csprojResolveAssemblyReference.cache
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial_Maker.frmMain.resources
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.GenerateResource.Cache
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CoreCompileInputs.cache
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.exe
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\Serial_Maker\Serial Maker\Serial Maker\obj\Debug\Serial Maker.pdb
