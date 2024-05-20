@@ -48,3 +48,5 @@ C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\Dem
 C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
 C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\DemoApp.exe
 C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\DemoApp.SplashScreen1.resources
+C:\Users\ME\Downloads\Compressed\TrialMaker-LAPTRINHVB.NET\DemoApp\obj\Debug\DemoApp.exe.licenses

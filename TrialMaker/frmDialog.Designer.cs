@@ -36,11 +36,11 @@
             this.btnTrial = new DevExpress.XtraEditors.SimpleButton();
             this.label6 = new System.Windows.Forms.Label();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.sebPassword = new SerialBox.SerialBox();
+            this.sebBaseString = new SerialBox.SerialBox();
             this.btnOK = new DevExpress.XtraEditors.SimpleButton();
             this.label3 = new System.Windows.Forms.Label();
-            this.sebPassword = new SerialBox.SerialBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.sebBaseString = new SerialBox.SerialBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lblComment = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
@@ -84,10 +84,10 @@
             // 
             this.lbldays.Font = new System.Drawing.Font("Droid Arabic Kufi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbldays.ForeColor = System.Drawing.Color.Red;
-            this.lbldays.Location = new System.Drawing.Point(286, 51);
-            this.lbldays.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.lbldays.Location = new System.Drawing.Point(211, 51);
+            this.lbldays.Margin = new System.Windows.Forms.Padding(0);
             this.lbldays.Name = "lbldays";
-            this.lbldays.Size = new System.Drawing.Size(37, 27);
+            this.lbldays.Size = new System.Drawing.Size(112, 27);
             this.lbldays.TabIndex = 12;
             // 
             // label4
@@ -130,11 +130,11 @@
             // 
             this.groupControl2.AppearanceCaption.Font = new System.Drawing.Font("Droid Arabic Kufi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupControl2.AppearanceCaption.Options.UseFont = true;
+            this.groupControl2.Controls.Add(this.sebPassword);
+            this.groupControl2.Controls.Add(this.sebBaseString);
             this.groupControl2.Controls.Add(this.btnOK);
             this.groupControl2.Controls.Add(this.label3);
-            this.groupControl2.Controls.Add(this.sebPassword);
             this.groupControl2.Controls.Add(this.label2);
-            this.groupControl2.Controls.Add(this.sebBaseString);
             this.groupControl2.Controls.Add(this.label1);
             this.groupControl2.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             this.groupControl2.Location = new System.Drawing.Point(13, 114);
@@ -142,6 +142,29 @@
             this.groupControl2.Size = new System.Drawing.Size(505, 177);
             this.groupControl2.TabIndex = 9;
             this.groupControl2.Text = "تفعيل المنظومة";
+            // 
+            // sebPassword
+            // 
+            this.sebPassword.CaptleLettersOnly = true;
+            this.sebPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sebPassword.Location = new System.Drawing.Point(17, 83);
+            this.sebPassword.Margin = new System.Windows.Forms.Padding(5);
+            this.sebPassword.Name = "sebPassword";
+            this.sebPassword.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.sebPassword.Size = new System.Drawing.Size(397, 32);
+            this.sebPassword.TabIndex = 14;
+            // 
+            // sebBaseString
+            // 
+            this.sebBaseString.CaptleLettersOnly = true;
+            this.sebBaseString.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sebBaseString.Location = new System.Drawing.Point(17, 53);
+            this.sebBaseString.Margin = new System.Windows.Forms.Padding(5);
+            this.sebBaseString.Name = "sebBaseString";
+            this.sebBaseString.ReadOnly = true;
+            this.sebBaseString.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.sebBaseString.Size = new System.Drawing.Size(397, 25);
+            this.sebBaseString.TabIndex = 13;
             // 
             // btnOK
             // 
@@ -168,17 +191,6 @@
             this.label3.TabIndex = 12;
             this.label3.Text = "كود التفعيل";
             // 
-            // sebPassword
-            // 
-            this.sebPassword.CaptleLettersOnly = true;
-            this.sebPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sebPassword.Location = new System.Drawing.Point(9, 87);
-            this.sebPassword.Margin = new System.Windows.Forms.Padding(5);
-            this.sebPassword.Name = "sebPassword";
-            this.sebPassword.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.sebPassword.Size = new System.Drawing.Size(397, 32);
-            this.sebPassword.TabIndex = 4;
-            // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Droid Arabic Kufi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -189,18 +201,6 @@
             this.label2.Size = new System.Drawing.Size(89, 27);
             this.label2.TabIndex = 11;
             this.label2.Text = "معرف الجهاز";
-            // 
-            // sebBaseString
-            // 
-            this.sebBaseString.CaptleLettersOnly = true;
-            this.sebBaseString.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sebBaseString.Location = new System.Drawing.Point(9, 53);
-            this.sebBaseString.Margin = new System.Windows.Forms.Padding(5);
-            this.sebBaseString.Name = "sebBaseString";
-            this.sebBaseString.ReadOnly = true;
-            this.sebBaseString.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.sebBaseString.Size = new System.Drawing.Size(397, 25);
-            this.sebBaseString.TabIndex = 2;
             // 
             // label1
             // 
@@ -258,10 +258,10 @@
         private DevExpress.XtraEditors.GroupControl groupControl2;
         private DevExpress.XtraEditors.SimpleButton btnOK;
         private System.Windows.Forms.Label label3;
-        private SerialBox.SerialBox sebPassword;
         private System.Windows.Forms.Label label2;
-        private SerialBox.SerialBox sebBaseString;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblComment;
+        private SerialBox.SerialBox sebBaseString;
+        private SerialBox.SerialBox sebPassword;
     }
 }

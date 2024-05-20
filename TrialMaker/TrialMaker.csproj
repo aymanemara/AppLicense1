@@ -49,9 +49,9 @@
     <Reference Include="DevExpress.Utils.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="SerialBoxes, Version=1.0.2435.24514, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="SerialBoxes, Version=1.0.2441.15934, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\SerialBox\SerialBox\bin\Debug\SerialBoxes.dll</HintPath>
+      <HintPath>..\..\SerialBox\SerialBox\SerialBox\bin\Debug\SerialBoxes.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

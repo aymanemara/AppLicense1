@@ -21,7 +21,7 @@ namespace SoftwareLocker
             InitializeComponent();
             sebBaseString.Text = BaseString;
             _Pass = Password;
-            lbldays.Text = DaysToEnd.ToString();
+            
             //lblTimes.Text = Runed.ToString() + " Time(s)";
             //lblText.Text = info;
             if (DaysToEnd <= 0 /*|| Runed <= 0*/)
@@ -30,6 +30,7 @@ namespace SoftwareLocker
                 //lblTimes.Text = "Finished";
                 btnTrial.Enabled = false;
             }
+            else { lbldays.Text = DaysToEnd.ToString(); }
 
             sebPassword.Select();
         }
